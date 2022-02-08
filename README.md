@@ -25,9 +25,9 @@ I'm a ☁️ Cloud Advocate ☁️ at Microsoft specializing in DevOps, Java and
 <img alt="java" width="21px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)  I'm honored to be a [Java Champion](https://developer.oracle.com/javachampions/).  
 
-🎥 Check out my recordings on [YouTube](https://www.youtube.com/channel/UCe5km7kRaL33VZw5lGeWd5Q)
-
 📣 I'm happy to speak at conferences, User Groups, and other events virtually and around the world - [info here](https://gist.github.com/bbenz/fa6051837028d8eb788d27e71bc8cc8b)
+
+🎥 Check out my recordings on [YouTube](https://www.youtube.com/channel/UCe5km7kRaL33VZw5lGeWd5Q)
 
 📼 Check out my [past and upcoming talks](https://www.brianbenz.com/blog/briantalks/), including videos and links to materials. 
 
