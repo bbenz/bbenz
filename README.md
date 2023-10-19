@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Brian 👋
 
-I'm a ☁️ Cloud Advocate ☁️ at Microsoft specializing in DevOps, Java and Azure.
+I'm a ☁️ Cloud Advocate ☁️ at Microsoft specializing in AI, Azure, Java and DevOps.
 
 ✨ I live in Las Vegas, Nevada, USA.  
 
