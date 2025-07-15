@@ -1,7 +1,4 @@
 
-<!--
-**bbenz/bbenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Brian 👋
 
 I'm a ☁️ Principal Cloud Advocate at Microsoft, specializing in AI, Azure, Java, and DevOps.  
