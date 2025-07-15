@@ -2,7 +2,7 @@
 # Hi, I'm Brian 👋
 
 I'm a ☁️ Principal Cloud Advocate at Microsoft, specializing in AI, Azure, Java, and DevOps.  
-I'm proud to be recognized as a [Java Champion](https://dev.java/advocates/#bbenz), and a Jakarata EE Abbassador [Java Champion](https://jakartaee-ambassadors.io/who-we-are/)
+I'm proud to be recognized as a [Java Champion](https://dev.java/advocates/#bbenz), and a [Jakarata EE Abbassador](https://jakartaee-ambassadors.io/who-we-are/)
 
 ---
 
